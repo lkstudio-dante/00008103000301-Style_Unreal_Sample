@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Code_Unreal_Sample.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Code_Unreal_Sample.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Code_Unreal_SampleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Code_Unreal_Sample">
+      <UniqueIdentifier>{89361F27-333A-399E-8719-BB1041081A6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_Sample.Build.cs">
+      <Filter>Source\Code_Unreal_Sample</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_Sample.cpp">
+      <Filter>Source\Code_Unreal_Sample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_Sample.h">
+      <Filter>Source\Code_Unreal_Sample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleCharacter.cpp">
+      <Filter>Source\Code_Unreal_Sample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleCharacter.h">
+      <Filter>Source\Code_Unreal_Sample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleGameMode.cpp">
+      <Filter>Source\Code_Unreal_Sample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleGameMode.h">
+      <Filter>Source\Code_Unreal_Sample</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

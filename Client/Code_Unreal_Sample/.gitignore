@@ -97,6 +97,6 @@ Plugins/**/Intermediate/*
 .vscode/
 /[Ee]xport/
 /[Oo]utput/
-![Ii]ntermediate/[Pp]roject[Ff]iles/
+!/[Ii]ntermediate/[Pp]roject[Ff]iles/
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine

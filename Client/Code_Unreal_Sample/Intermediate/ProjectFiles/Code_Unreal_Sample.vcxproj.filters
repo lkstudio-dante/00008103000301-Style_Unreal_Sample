@@ -41,20 +41,20 @@
     <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_Sample.cpp">
       <Filter>Source\Code_Unreal_Sample</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_Sample.h">
+    <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_Sample.h">
       <Filter>Source\Code_Unreal_Sample</Filter>
-    </ClInclude>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleCharacter.cpp">
       <Filter>Source\Code_Unreal_Sample</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleCharacter.h">
+    <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleCharacter.h">
       <Filter>Source\Code_Unreal_Sample</Filter>
-    </ClInclude>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleGameMode.cpp">
       <Filter>Source\Code_Unreal_Sample</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleGameMode.h">
+    <ClCompile Include="..\..\Source\Code_Unreal_Sample\Code_Unreal_SampleGameMode.h">
       <Filter>Source\Code_Unreal_Sample</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>

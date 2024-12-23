@@ -107,8 +107,6 @@ Plugins/**/Intermediate/*
 !**/Packages/00000303000201-[Uu]nity/
 !**/Packages/00000303000301-[Uu]nreal/
 
-!/[Ii]ntermediate/[Pp]roject[Ff]iles/
-
 .vscode/
 /[Bb]uild/
 /[Ee]xport/
